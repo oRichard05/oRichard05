@@ -1,16 +1,26 @@
-## Hi there 👋
+# Richard Barros
 
-<!--
-**oRichard05/oRichard05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **University of North Carolina at Chapel Hill**, focused on **Software Engineering** and **Cybersecurity**.
 
-Here are some ideas to get you started:
+I build software with an emphasis on backend systems, security, data, and reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+- Co-founder & Developer at **Everett**, working on weather forecasting and data systems
+- Exploring **Security Engineering, Application Security, and Systems**
+- Pursuing a B.S. in Computer Science at **UNC Chapel Hill**
+
+### Experience
+
+- **Pampili** — Software Development Intern
+- **Everett** — Co-founder & Developer
+- **SESI Big Bang 2** — Robotics Team Captain & Programmer
+
+### Tech
+
+`Python` `Java` `C` `C++` `TypeScript` `FastAPI` `React` `Next.js`  
+`PostgreSQL` `Redis` `Docker` `Linux` `Git` `Keycloak` `OPA/Rego`
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/otoni-barros/) · [Email](mailto:otonirichard@icloud.com)
